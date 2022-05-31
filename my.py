@@ -1,3 +1,3 @@
-print("111")
-print("123")
-print("12121212")
+print("a,a,a,a,a,a")
+in_1 = input("yes or no ")
+print(in_1)
